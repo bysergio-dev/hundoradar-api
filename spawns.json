@@ -38,5 +38,15 @@
     "latitud": 37.423000,
     "longitud": -122.084000,
     "expiraEn": 1787027875628
-  }
+  },
+  {
+  "id": "spawn_005",
+  "nombre": "Gible",
+  "ataque": 15,
+  "defensa": 15,
+  "ps": 15,
+  "latitud": 37.423,
+  "longitud": -122.084,
+  "expiraEn": 1787028039878
+}
 ]
