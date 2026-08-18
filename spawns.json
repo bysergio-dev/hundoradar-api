@@ -29,4 +29,14 @@
     "longitud": -122.084,
     "expiraEn": 1893456000000
   }
+  {
+    "id": "spawn_004",
+    "nombre": "Gible",
+    "ataque": 15,
+    "defensa": 15,
+    "ps": 15,
+    "latitud": 37.423000,
+    "longitud": -122.084000,
+    "expiraEn": 1893456000000
+  }
 ]
