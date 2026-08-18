@@ -1,0 +1,32 @@
+[
+  {
+    "id": "spawn_001",
+    "nombre": "Charmander",
+    "ataque": 15,
+    "defensa": 15,
+    "ps": 15,
+    "latitud": 37.4245,
+    "longitud": -122.084,
+    "expiraEn": 1893456000000
+  },
+  {
+    "id": "spawn_002",
+    "nombre": "Pikachu",
+    "ataque": 12,
+    "defensa": 15,
+    "ps": 14,
+    "latitud": 37.4238,
+    "longitud": -122.084,
+    "expiraEn": 1893456000000
+  },
+  {
+    "id": "spawn_003",
+    "nombre": "Dratini",
+    "ataque": 15,
+    "defensa": 15,
+    "ps": 15,
+    "latitud": 37.429,
+    "longitud": -122.084,
+    "expiraEn": 1893456000000
+  }
+]
